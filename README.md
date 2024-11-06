@@ -31,7 +31,7 @@ Here’s a selection of projects I’ve worked on. Each project explores differe
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Reach out via:
 
 - 📧 **Email**: roger.elias669@gmail.com
-- 💼 **LinkedIn**: [LinkedIn Profile](#https://www.linkedin.com/in/roger-elias-43a21023a/)
+- 💼 **LinkedIn**: [Roger Elias](https://www.linkedin.com/in/roger-elias-43a21023a/)
 
 > "Strive for progress, not perfection."
 
