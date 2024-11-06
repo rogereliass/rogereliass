@@ -37,5 +37,3 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 
 Thanks for stopping by! I look forward to connecting and sharing ideas.
 
-![Snake](https://github.com/YourUsername/YourUsername/blob/main/github-contribution-grid-snake.svg)
-
