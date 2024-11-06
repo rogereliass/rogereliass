@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/rogereliass/rogereliass/blob/main/Github%20Img.gif" alt="Welcome to My GitHub Profile" width="600">
+</p>
+# Hello, I'm Roger Elias 👋
 
-<!--
-**rogereliass/rogereliass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student | German University in Cairo (GUC)**  
+Currently, I'm a 5th-semester Computer Engineering student, fascinated by how technology shapes our daily lives. My passion lies in understanding computers from the ground up and building software that solves practical, everyday problems.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+I'm skilled in a variety of languages, tools, and platforms, ranging from programming to design. Here’s a snapshot of my toolkit:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, Java, MSSQL, ProLog, Haskell, C, VHDL
+- **Development Tools**: GitHub, JUnit, Visual Studio, VS Code, Eclipse, ModelSim, LogiSim, WinHugs
+- **Productivity**: MS Office, Google Workspace
+- **Design**: Photoshop, Premiere, Canva
+
+## 📂 Featured Projects
+Here’s a selection of projects I’ve worked on. Each project explores different aspects of software engineering and problem-solving. Feel free to check them out!
+
+| Project | Description |
+| ------- | ----------- |
+| [AOT-Utopia 2D Game](#https://github.com/rogereliass/AOT-Utopia) | (https://github.com/rogereliass/AOT-Utopia) |
+| [Project Name 2](#) | Brief description of what it does. |
+| [Project Name 3](#) | Brief description of what it does. |
+
+## 🌐 Connect with Me
+I'm always open to connecting with like-minded individuals and exploring new opportunities. Reach out via:
+
+- 📧 **Email**: roger.elias669@gmail.com
+- 💼 **LinkedIn**: [LinkedIn Profile](#https://www.linkedin.com/in/roger-elias-43a21023a/)
+
+> "Strive for progress, not perfection."
+
+Thanks for stopping by! I look forward to connecting and sharing ideas.
