@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/rogereliass/rogereliass/blob/main/Github%20Img.gif" alt="Welcome to My GitHub Profile" width="600">
 </p>
+
 # Hello, I'm Roger Elias 👋
 
 🎓 **Computer Engineering Student | German University in Cairo (GUC)**  
@@ -19,15 +20,18 @@ Here’s a selection of projects I’ve worked on. Each project explores differe
 
 | Project | Description |
 | ------- | ----------- |
-| [AOT-Utopia 2D Game](#https://github.com/rogereliass/AOT-Utopia) | (https://github.com/rogereliass/AOT-Utopia) |
-| [Project Name 2](#) | Brief description of what it does. |
-| [Project Name 3](#) | Brief description of what it does. |
+| [AOT-Utopia 2D Game] | (https://github.com/rogereliass/AOT-Utopia) |
+| [Quiz Proctoring System] | (https://github.com/rogereliass/Quiz-Proctoring-Script) |
+| [Basic Computer Simulation] | (https://github.com/rogereliass/Basic-Computer-Implementation) |
+
+✨ *These are just a few of my projects. For more, feel free to explore the rest of my [repositories](https://github.com/rogereliass?tab=repositories)!* ✨
+
 
 ## 🌐 Connect with Me
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Reach out via:
 
 - 📧 **Email**: roger.elias669@gmail.com
-- 💼 **LinkedIn**: [LinkedIn Profile](#https://www.linkedin.com/in/roger-elias-43a21023a/)
+- 💼 **LinkedIn**: LinkedIn Profile(#https://www.linkedin.com/in/roger-elias-43a21023a/)
 
 > "Strive for progress, not perfection."
 
