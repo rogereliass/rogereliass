@@ -10,7 +10,7 @@ Currently, I'm a 5th-semester Computer Engineering student, fascinated by how te
 ## 🛠️ Technologies & Tools
 I'm skilled in a variety of languages, tools, and platforms, ranging from programming to design. Here’s a snapshot of my toolkit:
 
-- **Languages**: Python, Java, MSSQL, ProLog, Haskell, C, VHDL
+- **Languages**: Python, Java, MSSQL, ASP.net, C#, Node.js, ProLog, Haskell, C, VHDL
 - **Development Tools**: GitHub, JUnit, Visual Studio, VS Code, Eclipse, ModelSim, LogiSim, WinHugs
 - **Productivity**: MS Office, Google Workspace
 - **Design**: Photoshop, Premiere, Canva
