@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rogereliass/rogereliass/blob/main/Github%20Img.gif" alt="Welcome to My GitHub Profile" width="600">
+  <img src="https://github.com/rogereliass/rogereliass/blob/main/Github%20Img.gif" alt="Welcome to My GitHub Profile" width="500">
 </p>
 
 # Hello, I'm Roger Elias 👋
