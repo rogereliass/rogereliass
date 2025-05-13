@@ -5,7 +5,7 @@
 # Hello, I'm Roger Elias 👋
 
 🎓 **Computer Engineering Student | German University in Cairo (GUC)**  
-Currently, I'm a 5th-semester Computer Engineering student, fascinated by how technology shapes our daily lives. My passion lies in understanding computers from the ground up and building software that solves practical, everyday problems.
+Currently, I'm a 6th-semester Computer Engineering student, fascinated by how technology shapes our daily lives. My passion lies in understanding computers from the ground up and building software that solves practical, everyday problems.
 
 ## 🛠️ Technologies & Tools
 I'm skilled in a variety of languages, tools, and platforms, ranging from programming to design. Here’s a snapshot of my toolkit:
