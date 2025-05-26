@@ -10,10 +10,10 @@ Currently, I'm a 6th-semester Computer Engineering student, fascinated by how te
 ## 🛠️ Technologies & Tools
 I'm skilled in a variety of languages, tools, and platforms, ranging from programming to design. Here’s a snapshot of my toolkit:
 
-- **Languages**: Java, Python, SQL, ASP.net, C#, Node.js, HTML/CSS, ProLog, Haskell, C, VHDL
-- **Development Tools**: Git, GitHub, JUnit, Visual Studio, VS Code, Eclipse, ModelSim, LogiSim, WinHugs
-- **Productivity**: MS Office, Google Workspace
-- **Design**: Photoshop, Premiere, Canva
+- **Languages**: Java, Python, SQL, Javascript, HTML/CSS, ASP.net, C#, C, ProLog, Haskell, VHDL
+- **Development Tools**: Node.js, React.js, ASP.NET, Git, GitHub, Visual Studio, ModelSim, LogiSim
+- **Others**: MS Office, Google Workspace, Power BI, Photoshop, Premiere, Canva
+- **Languages**: Arabic, French, English, German
 
 ## 📂 Featured Projects
 Here’s a selection of projects I’ve worked on. Each project explores different aspects of software engineering and problem-solving. Feel free to check them out!
