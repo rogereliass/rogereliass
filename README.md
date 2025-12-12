@@ -5,20 +5,20 @@
 # Hello, I'm Roger Elias 👋
 
 🎓 **Computer Engineering Student | German University in Cairo (GUC)**  
-Currently, I'm a 6th-semester Computer Engineering student, fascinated by how technology shapes our daily lives. My passion lies in understanding computers from the ground up and building software that solves practical, everyday problems.
+Currently, I'm a 7th-semester Computer Engineering student, fascinated by how technology shapes our daily lives. My passion lies in understanding computers from the ground up and building software that solves practical, everyday problems.
 
 ## 🛠️ Technologies & Tools
 I'm skilled in a variety of languages, tools, and platforms, ranging from programming to design. Here’s a snapshot of my toolkit:
 
-- **Languages**: Java, Python, SQL, Javascript, HTML/CSS, ASP.net, C#, C, ProLog, Haskell, VHDL
-- **Development Tools**: Node.js, React.js, ASP.NET, Git, GitHub, Visual Studio, ModelSim, LogiSim
-- **Others**: MS Office, Google Workspace, Power BI, Photoshop, Premiere, Canva
+- **Languages**: Java, Python, SQL, Typescript, HTML/CSS, C#, C++, ProLog, Haskell, VHDL
+- **Development Tools**: Node.js, React.js, Flutter, MongoDB, ASP.NET, Git, GitHub, Visual Studio, ModelSim
+- **Others**: Power BI, MS Office, Google Workspace, Photoshop, Premiere, Canva
 - **Languages**: Arabic, French, English, German
 
 ## 📂 Featured Projects
 Here’s a selection of projects I’ve worked on. Each project explores different aspects of software engineering and problem-solving. Feel free to check them out!
 
-| Project | Description |
+| Project | Links |
 | ------- | ----------- |
 | GUC Projects Repo | (https://github.com/rogereliass/guc-projects) |
 | SCAD Internship System | (https://github.com/rogereliass/SCAD-Internship-System) |
