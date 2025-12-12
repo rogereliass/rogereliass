@@ -20,9 +20,11 @@ Here’s a selection of projects I’ve worked on. Each project explores differe
 
 | Project | Description |
 | ------- | ----------- |
-| AOT-Utopia 2D Game | (https://github.com/rogereliass/AOT-Utopia) |
-| Quiz Proctoring System | (https://github.com/rogereliass/Quiz-Proctoring-Script) |
-| Basic Computer Simulation | (https://github.com/rogereliass/Basic-Computer-Implementation) |
+| GUC Projects Repo | (https://github.com/rogereliass/guc-projects) |
+| SCAD Internship System | (https://github.com/rogereliass/SCAD-Internship-System) |
+| Horizon Camp Scorekeeper | (https://github.com/rogereliass/Horizon-Scorekeeper) |
+| Tomasulo Simulator | (https://github.com/rogereliass/Tomasulo_Simulation) | 
+| ChronoTrail 3D Game | (https://github.com/rogereliass/ChronoTrail_3D_Game) |
 
 ✨ *These are just a few of my projects. For more, feel free to explore the rest of my [repositories](https://github.com/rogereliass?tab=repositories)!* ✨
 
